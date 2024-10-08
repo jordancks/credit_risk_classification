@@ -1,4 +1,4 @@
-# Module 12 - Credit Risk Classification Report
+# Module 20 - Credit Risk Classification Report
 
 ## Overview of the Analysis
 The purpose of this analysis is to build a logistic regression model that predicts credit risk, specifically identifying loans that are high risk versus healthy loans. Using data from the lending_data.csv, machine learning techniques ia used to create a logistic regression model that could help a financial institution assess the likelihood of a loan defaulting based on various features such as loan size, interest rate, borrower income, debt-to-income ratio, and more.
