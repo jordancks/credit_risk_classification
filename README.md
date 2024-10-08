@@ -7,7 +7,7 @@ The purpose of this analysis is to build a logistic regression model that predic
 * Accuracy Score: 99%
 * Precision Score:
     Healthy Loan (0): 1.00
-    High-Risk Loan (1): 0.88
+    High-Risk Loan (1): 0.86
 * Recall Score:
     Healthy Loan (0): 1.00
     High-Risk Loan (1): 0.91
